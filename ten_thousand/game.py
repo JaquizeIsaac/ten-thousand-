@@ -16,7 +16,7 @@ Shows the welcome message and prompts the user to begin the game, then calls sta
     welcome()
     response = input("> ")
     if response.lower() == "n":
-        print("Certainly, whenever you're ready")
+        print("Alright. See ya next time.")
     else:
         start_game(roller)
 
