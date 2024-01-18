@@ -6,10 +6,10 @@
 
 ### Setup
 
-#### Tests
+Tests
 Run Test: pytest  
 
-Tests: 
+Tests:
 - Test dice roll
 - Test dice rolls with different numbers of dice
 - Test calculate score:
